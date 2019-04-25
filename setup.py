@@ -3,7 +3,7 @@ from distutils.core import setup
 setup(
     name="fastparse",  # How you named your package folder (MyLib)
     packages=["fastparse"],  # Chose the same as "name"
-    version="1",  # Start with a small number and increase it with every change you make
+    version="1.1",  # Start with a small number and increase it with every change you make
     license="MIT",  # Chose a license from here: https://help.github.com/articles/licensing-a-repository
     description="A fast way to get terminal arguments",  # Give a short description about your library
     author="ES3",  # Type in your name
