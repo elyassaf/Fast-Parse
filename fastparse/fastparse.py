@@ -39,5 +39,5 @@ def fast_parse(*args):
 if __name__ == "__main__":
     print(
         """Welcome to FastParse, to start you can first import the modules "from fastparse import fastparse.
-    To get more details about the module read the "Readme.md" attached to this module """
+    To get more details about the module read the docs here 'https://github.com/elyassaf/Fast-Parse'."""
     )

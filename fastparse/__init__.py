@@ -1,1 +1,1 @@
-from fastparse import try_parse, fast_parse
+from fastparse.fastparse import fast_parse, try_parse
